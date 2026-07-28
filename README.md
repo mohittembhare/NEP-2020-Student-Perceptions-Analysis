@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains a data analysis project exploring undergraduate student behavior and perceptions regarding the 4-year undergraduate program introduced under India's National Education Policy (NEP) 2020. Based on a survey of 500 responses (100 original, 400 simulated via multivariate normal distribution), this project applies Spearman’s Rank Correlation to unpack the underlying relationships between program awareness, career expectations, the value of research/internships, and financial concerns.
+This repository contains a data analysis project exploring undergraduate student behavior and perceptions regarding the 4-year undergraduate program introduced under India's National Education Policy (NEP) 2020. Based on a survey of 500 responses, this project applies Spearman’s Rank Correlation to unpack the underlying relationships between program awareness, career expectations, the value of research/internships, and financial concerns.
 
 ---
 
