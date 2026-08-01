@@ -1,4 +1,4 @@
-# 📊 NEP-2020-Student-Perceptions
+#  NEP-2020-Student-Perceptions
 
 ## Project Description
 
@@ -6,7 +6,7 @@ This repository contains a data analysis project exploring undergraduate student
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 **Awareness and Industry Readiness are Top Priorities**
 
@@ -32,7 +32,7 @@ This repository contains a data analysis project exploring undergraduate student
 
 ---
 
-## 🛠 Methodology & Tools
+##  Methodology & Tools
 
 The analysis was conducted using R, leveraging packages such as `readxl`, `dplyr`, `ggplot2`, and `corrplot`. The core methodology includes:
 
@@ -43,7 +43,7 @@ The analysis was conducted using R, leveraging packages such as `readxl`, `dplyr
 
 ---
 
-## 🗂 Repository Files
+##  Repository Files
 
 *   **Dataset:** `NEP2020_Survey_Responses.xlsx` contains the 500 survey responses used for this analysis.
 *   **Visualizations:** `Correlation_Heatmap.png` visualizes the Spearman correlation between the survey variables.
@@ -51,6 +51,6 @@ The analysis was conducted using R, leveraging packages such as `readxl`, `dplyr
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 ![Spearman Correlation of NEP 2020 Survey Perceptions](Correlation_Heatmap.png)
